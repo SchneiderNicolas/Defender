@@ -1,0 +1,5 @@
+       A           A              A     B  A   B              AAB      C   A      C   B    B   BA        AB  AA   ABC  CB  AA  CB A
+             A        A            B    A   A  B      A             CB    BC    A   A     B   BB          ABB  CBA  AA ABB B B AA
+    A            A                  B   A    A   BA               C     A    B   B     C    A    AC        CC  AA  AAC  ABA  ACB  CAA
+A            A         B        A   A     A     C             B   AA     C    BA    B     A              BBA  ABA    ABA  ACB   CBA
+         A            B             B    B      BA     A            BC     AB    A  B   A      AAC           AB  AC  A  C  BB  CBA  A  AAB CC

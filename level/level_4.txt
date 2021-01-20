@@ -1,0 +1,18 @@
+ R        S       T   S    V   R   T    R   RS     V     SX   U    VW    WX   RS  UV   VXS   SXR  W   VVX
+       R        T     S           T     V     T  V    TU    W    XT       S   RUV   STX  WV  RRV  WT
+             S    T   R      U  V    S   V    U  SR    R    V   RS    W R     SU  RUW   XR   STV  WWU  ST  RSV
+    R              R    R     U    T    VS    T    U     T      RS     W VXS  RS   UTW   RXS  WW
+          R    S  T    V     R     U   T    TV     U     S    WS     X   XXR  RSU  TS  UVS   RXW   XW
+
+
+
+
+
+
+
+
+ D        E         F               E    H   D   F    D           DE     H     EJ   G    HI    IJ          DE  GH   HJE   EJD  I   HHJ
+       D        F         E           F     H     F                  H    FG    I    JF       E              DGH   EFJ  IH  DDH  IF
+             E         F         D      G  H    E   H           G  ED    D    H   DE    I D     EG          DGI   JD   EFH  IIG  EF  DEH
+    D              D                   D     G    F                 HE    F    G     F      DE     I         HJE  DE   GFI   DJE  II
+          D          E              F    H     D     G           F    FH     G     E    IE     J            JJD  DEG  FE  GHE   DJI   JI

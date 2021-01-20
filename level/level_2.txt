@@ -1,0 +1,5 @@
+L          M          M            M    N   L   O  LM            OMN    NO     P    NM   Q    NL              NM  QM  LOP  QM  LMN  PO
+        L         M                  M    O    N                ML     P     NM    Q     PM    ON              PN  MMP  QNO  MP   NQO
+    L                M              L    O    M   NM               O    PN      PN    L    O    Q             PMN   MON   LNM   QNM  OP
+              L         M              M   N     L              N       P    Q     LM    P    OP               QOM  LNO  MON  QNP  PPN
+          M          L             L     O     N                   P      LO    LM     N   NM     Q           QPN  OMN NNO  NMM PPO  PMN
